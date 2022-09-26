@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-Repository of artificial intelligence techniques.
+Repository of artificial intelligence techniques
 
 ## List of techniques
 
