@@ -1,1 +1,3 @@
-# computational-intelligence-ufpa-2022
+# Computational Intelligence
+
+Repository of computational intelligence algorithms
