@@ -1,6 +1,9 @@
 # Artificial Intelligence
 
-:construction: Repository of artificial intelligence techniques.
+**:warning: WORK IN PROGRESS :warning:**
+
+Repository of artificial intelligence techniques.
+
 
 ## List of techniques
 
