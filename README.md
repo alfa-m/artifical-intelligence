@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-Repository of artificial intelligence techniques
+:construction: Repository of artificial intelligence techniques.
 
 ## List of techniques
 
@@ -13,7 +13,7 @@ Repository of artificial intelligence techniques
 
 # Inteligência Artificial
 
-Repositório de técnicas de inteligência artificial
+:construction: Repositório de técnicas de inteligência artificial.
 
 ## Lista de técnicas
 
